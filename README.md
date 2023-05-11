@@ -11,8 +11,7 @@ I am always interested in improving the software so please contact me to provide
 The software is free to download and use. There are no advertisements in it.
 
 The main differences between this software and many others are :-
-a. Main screen that provides a good overall context of the current person 
-   you are focussed on
+a. Main screen that provides a good overall context of the current person you are focussed on
 b. Ease of data entry
 c. Speed of displaying, searching, importing and exporting data
 d. Powerful searching and sorting
